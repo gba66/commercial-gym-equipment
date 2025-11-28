@@ -1,0 +1,11 @@
+
+
+User-agent: *
+Allow: /
+
+Sitemap: https://www.ntaifitness.com/en/sitemap.xml
+
+# Block admin or dev paths (if any exist in the future)
+Disallow: /admin/
+Disallow: /cgi-bin/
+Disallow: /tmp/
